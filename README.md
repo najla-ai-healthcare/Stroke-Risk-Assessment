@@ -41,15 +41,15 @@ The project includes several key visualizations to justify model decisions:
 * **Feature Importance Bar Chart:** Ranking the 10 most significant clinical predictors.
 * **Precision-Recall Curve:** Visualizing the trade-offs and marking the **Target Recall (0.82)** zone.
 
+![F1-Threshold](F1-Threshold.png)
+![Feature Importance](Feature Importance.png)
+![PR-Curve](PR-Curve.png)
+
 ---
 
 ##  Key Results
 * **Robust Evaluation:** Achieved high **ROC-AUC** scores through both Logistic Regression and Tuned Random Forest.
 * **Clinical Readiness:** By adjusting the decision threshold, the model is prepared for screening scenarios where high sensitivity is required.
-
-![F1-Threshold]( f1_score_ _threshold.png)
-![Feature Importance]( top 10 features.png)
-![PR-Curve]( precision recall curve.png)
 
 ---
 
