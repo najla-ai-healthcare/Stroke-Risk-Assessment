@@ -42,7 +42,7 @@ The project includes several key visualizations to justify model decisions:
 * **Precision-Recall Curve:** Visualizing the trade-offs and marking the **Target Recall (0.82)** zone.
 
 ![F1-Threshold](F1-Threshold.png)
-![Feature Importance](Feature Importance.png)
+![Feature_Importance](Feature_Importance.png)
 ![PR-Curve](PR-Curve.png)
 
 ---
