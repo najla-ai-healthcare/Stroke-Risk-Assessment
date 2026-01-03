@@ -47,6 +47,10 @@ The project includes several key visualizations to justify model decisions:
 * **Robust Evaluation:** Achieved high **ROC-AUC** scores through both Logistic Regression and Tuned Random Forest.
 * **Clinical Readiness:** By adjusting the decision threshold, the model is prepared for screening scenarios where high sensitivity is required.
 
+![F1-Threshold]( f1_score_ _threshold.png)
+![Feature Importance]( top 10 features.png)
+![PR-Curve]( precision recall curve.png)
+
 ---
 
 ##  Tech Stack
